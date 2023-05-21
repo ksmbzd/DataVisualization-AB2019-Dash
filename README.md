@@ -26,6 +26,8 @@ The Dash app provides the following visualizations:
 4. A box plot showing the distribution of prices by room type and neighborhood group.
 5. A line chart showing the average number of reviews per month over time.
 
-## Author
+## Data Visualization Plot
 
-Kassem Bou Zeid
+![Data Plot](https://raw.githubusercontent.com/ksmbzd/DataVisualization-AB2019-Dash/main/result/plot.png)
+
+This plot represents the data visualization created by our application.
